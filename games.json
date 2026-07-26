@@ -1,1 +1,31 @@
-
+{
+  "games": [
+    {
+      "id": "gcn_startup",
+      "name": "GameCube Startup Disc",
+      "description": "A custom fake GameCube startup experience.",
+      "platform": "GameCube",
+      "version": "1.0",
+      "image": "images/gcn_startup.png",
+      "download": "downloads/GameCubeStartupDisc.iso"
+    },
+    {
+      "id": "virtual_wii",
+      "name": "Virtual Wii Menu",
+      "description": "A fan-made Wii menu simulation.",
+      "platform": "Wii",
+      "version": "1.0",
+      "image": "images/virtual_wii.png",
+      "download": "downloads/VirtualWiiMenu.iso"
+    },
+    {
+      "id": "retro_demo",
+      "name": "Retro Demo",
+      "description": "A small homebrew-style demo game.",
+      "platform": "Wii/GameCube",
+      "version": "0.1",
+      "image": "images/retro_demo.png",
+      "download": "downloads/RetroDemo.iso"
+    }
+  ]
+}
